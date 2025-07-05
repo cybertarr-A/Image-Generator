@@ -25,6 +25,8 @@ VQGAN+CLIP / Stable Diffusion / OpenCV
 HuggingFace Transformers (optional)
 
 📦 Output:
-NFT-ready PNG/JPG images
+NFT-ready PNG/JPG images![Gold](https://github.com/user-attachments/assets/600cdbdc-9df4-4eaf-b26a-6f2dc88ae25b)
+![Cheery](https://github.com/user-attachments/assets/b32e22c0-529e-4273-a82c-581047f14998)
+
 
 Optional metadata templates for NFT minting platforms
